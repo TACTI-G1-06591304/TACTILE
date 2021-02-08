@@ -1,0 +1,8 @@
+Liens utiles :
+1.https://github.com/mozilla/DeepSpeech/wiki/Meeting-Notes
+
+2.https://github.com/crosswalk-project/crosswalk-website/wiki/Crosswalk-5-release-notes
+
+3.https://github.com/qcri/BrailleTouch
+
+4.https://github.com/kf0913502/BrailleTouchAndroid
